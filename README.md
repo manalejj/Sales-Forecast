@@ -75,8 +75,3 @@ The model achieved an accuracy of **$R^2 \approx 0.85$**, with predicted values 
     ```bash
     python run_analysis.py
     ```
-
----
-
-## ⚠️ Data Note
-*Note: For the purpose of this portfolio demonstration, this project utilizes a simulation script to generate noise-free data. This ensures clear visualization of the forecasting pipeline, architectural logic, and business insights (Seasonality/Pareto) without the irregularities of raw production data.*
